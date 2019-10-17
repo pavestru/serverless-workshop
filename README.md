@@ -1,2 +1,0 @@
-# serverless-workshop
-Serverless Workshop
